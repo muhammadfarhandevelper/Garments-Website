@@ -1,0 +1,22 @@
+.active_class{
+  border-bottom: 2px solid red;
+  color: orangered !important; 
+}
+a{
+  color: white !important;
+}
+#bg_image{
+  height: 670px;
+  width: 100%;
+  background: url('../src/images/img4.jpg') ;
+  background-size: cover;
+
+}
+#footer{
+  background-color: black;
+  color: white;
+}
+#card{
+  box-shadow: 0px 0px 30px 1px rgba(0,0,0,0.61);
+  border: 1px solid black;
+}

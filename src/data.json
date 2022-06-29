@@ -1,0 +1,46 @@
+
+[
+    {
+        "id":1,
+        "imgsrc": "./images/img9.jpg",
+        "img_title" : "Adidas T-Shirts",
+        "img_para" : "Adidas T-Shirts. This T-Shirts are useful in summer. This T-Shirt is only at $100"
+
+    },
+    {
+        "id":2,
+        "imgsrc": "./images/img4.jpg",
+        "img_title" : "Nike T-Shirts",
+        "img_para" : "Nike T-Shirts. Nike T-Shirts are useful in winter. This T-Shirt is only at $160"
+
+    },
+    {
+        "id":3,
+        "imgsrc": "./images/img8.png",
+        "img_title" : "Reeebok T-Shirts",
+        "img_para" : "Reeebok T-Shirts. Reebok T-Shirts are useful in spring. This T-Shirt is only at $130"
+
+    },
+    {
+        "id":4,
+        "imgsrc": "./images/img12.jpg",
+        "img_title" : "Adidas T-Shirts",
+        "img_para" : "Adidas T-Shirts. Adidas T-Shirts are useful in summer. This T-Shirt is only at $140"
+
+    },
+    {
+        "id":5,
+        "imgsrc": "./images/img10.jpg",
+        "img_title" : "Nike T-Shirts",
+        "img_para" : "Nike T-Shirts. Nike T-Shirts are useful in winter. This T-Shirt is only at $200"
+
+    },
+    {
+        "id":6,
+        "imgsrc": "./images/img11.jpg",
+        "img_title" : "Reeebok T-Shirts Zafeer",
+        "img_para" : "Reeebok T-Shirts. Reebok T-Shirts are useful in spring. This T-Shirt is only at $170"
+
+    }
+]
+
